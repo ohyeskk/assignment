@@ -1,0 +1,49 @@
+body {
+  background-color: #15161c;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.form {
+  width: 500px;
+  margin: 30px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+label {
+  font-size: 20px;
+  display: inline-block;
+  width: 120px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+input {
+  width: 180px;
+  height: 30px;
+  padding: 4px 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+select {
+  width: 180px;
+  height: 30px;
+  font-size: 16px;
+}
+
+button {
+  width: 130px;
+  height: 32px;
+  font-size: 16px;
+  cursor: pointer;
+}
